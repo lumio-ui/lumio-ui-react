@@ -1,0 +1,12 @@
+{
+  "name": "@cmexx-react/ui",
+  "version": "0.1.0",
+  "private": false,
+  "publishConfig": {
+    "@willianlouza:registry": "https://npm.pkg.github.com"
+  },
+  "peerDependencies": {
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
