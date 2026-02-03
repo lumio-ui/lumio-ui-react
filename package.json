@@ -1,7 +1,13 @@
 {
-  "name": "@willianlouza/cmexx-react-ui",
+  "name": "@lumio-ui/react",
   "version": "0.1.0",
+  "description": "Uma biblioteca de UI leve, elegante e moderna com suporte nativo a temas e efeitos de ripple.",
+  "author": "Willian Louza",
+  "license": "MIT",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -19,8 +25,25 @@
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "prepublishOnly": "npm run build"
   },
+  "keywords": [
+    "react",
+    "lumio-ui",
+    "components",
+    "tailwind",
+    "dark-mode",
+    "ripple-effect"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lumio-ui/lumio-ui-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lumio-ui/lumio-ui-react/issues"
+  },
+  "homepage": "https://github.com/lumio-ui/lumio-ui-react#readme",
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",
     "react-dom": "^18.0.0 || ^19.0.0"
