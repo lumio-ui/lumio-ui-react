@@ -1,17 +1,53 @@
-# 💡 Lumio UI
+<p align="center">
+  <img src="./assets/lumio-logo-rounded.svg" alt="Lumio UI Logo" width="120" />
+</p>
 
-**Lumio UI** é uma biblioteca de componentes React leve, elegante e moderna. Focada em performance e experiência do usuário, ela combina o poder do **Radix UI** com a flexibilidade do **Tailwind CSS**.
+<h1 align="center">Lumio UI</h1>
 
-[![npm version](https://img.shields.io/npm/v/@lumio-ui/react.svg?color=6366f1)](https://www.npmjs.com/package/@lumio-ui/react)
-[![license](https://img.shields.io/npm/l/@lumio-ui/react.svg)](https://github.com/lumio-ui/lumio-ui-react/blob/main/LICENSE) 
+<p align="center">
+  Uma biblioteca de componentes React <strong>leve, elegante e moderna</strong>, focada em performance,
+  acessibilidade e experiência do desenvolvedor.
+</p>
 
-## ✨ Destaques
+<p align="center">
+  <a href="https://www.npmjs.com/package/@lumio-ui/react">
+    <img src="https://img.shields.io/npm/v/@lumio-ui/react.svg?color=6366f1" />
+  </a>
+  <a href="https://github.com/lumio-ui/lumio-ui-react/blob/main/LICENSE">
+    <img src="https://img.shields.io/npm/l/@lumio-ui/react.svg" />
+  </a>
+</p>
 
-- 🌑 **Dark Mode Nativo**: Sistema de temas persistente e inteligente.
-- 🌊 **Ripple Effect**: Feedback visual fluído e moderno em botões e links.
-- 🧩 **Polimorfismo**: Suporte total ao padrão `asChild` via Radix Slot.
-- ⚡ **Lightweight**: Construída com Tailwind v4 para o mínimo de impacto no bundle final.
-- ♿ **Acessível**: Componentes que seguem os padrões WAI-ARIA.
+---
+
+## ✨ Por que Lumio UI?
+
+**Lumio UI** combina a robustez do **Radix UI** com a flexibilidade do **Tailwind CSS v4** para entregar
+componentes acessíveis, altamente customizáveis e prontos para produção.
+
+Projetada para projetos modernos que valorizam **design consistente**, **baixo acoplamento**
+e **excelente DX**.
+
+---
+
+## 🌟 Destaques
+
+- 🌑 **Dark Mode nativo**  
+  Sistema de temas inteligente, persistente e sem flicker.
+
+- 🌊 **Ripple Effect**  
+  Feedback visual fluido e moderno em botões e links.
+
+- 🧩 **Polimorfismo total**  
+  Suporte completo ao padrão `asChild` via Radix Slot.
+
+- ⚡ **Leve de verdade**  
+  Construída com Tailwind CSS v4, sem CSS extra ou runtime desnecessário.
+
+- ♿ **Acessível por padrão**  
+  Componentes seguindo as recomendações WAI-ARIA.
+
+---
 
 ## 🚀 Instalação
 
