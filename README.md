@@ -1,3 +1,5 @@
+<h1>🚧 **Em desenvolvimento ativo. Não usar em produção.**</h1>
+
 <p align="center">
   <img src="./logo.svg" alt="Lumio UI Logo" width="120" />
 </p>
@@ -13,7 +15,7 @@
   <a href="https://www.npmjs.com/package/@lumio-ui/react">
     <img src="https://img.shields.io/npm/v/@lumio-ui/react.svg?color=6366f1" />
   </a>
-  <a href="https://github.com/lumio-ui/lumio-ui-react/blob/main/LICENSE">
+  <a href="https://github.com/lumio-ui/lumio-ui-react/blob/master/LICENSE">
     <img src="https://img.shields.io/npm/l/@lumio-ui/react.svg" />
   </a>
 </p>
