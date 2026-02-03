@@ -27,7 +27,7 @@
     "build": "tsup",
     "dev": "tsup --watch",
     "lint": "eslint src",
-    "test": "vitest run",
+    "test": "vitest run --passWithNoTests",
     "preversion": "npm run build && npm test",
     "release:patch": "npm version patch && git push && git push --tags",
     "release:minor": "npm version minor && git push && git push --tags",
