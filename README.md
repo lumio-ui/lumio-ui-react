@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/lumio-logo-rounded.svg" alt="Lumio UI Logo" width="120" />
+  <img
+    src="https://raw.githubusercontent.com/lumio-ui/lumio-ui-react/main/assets/lumio-logo-rounded.svg"
+    alt="Lumio UI"
+    width="120"
+  />
 </p>
 
 <h1 align="center">Lumio UI</h1>
