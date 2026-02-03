@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/npm/v/@lumio-ui/react.svg?color=6366f1" />
   </a>
   <a href="https://github.com/lumio-ui/lumio-ui-react/blob/master/LICENSE">
-    <img src="https://img.shields.io/npm/l/@lumio-ui/react.svg" />
+    <img src="https://img.shields.io/github/license/lumio-ui/lumio-ui-react" />
   </a>
 </p>
 
@@ -57,3 +57,4 @@ e **excelente DX**.
 npm install @lumio-ui/react
 # ou
 yarn add @lumio-ui/react
+```
